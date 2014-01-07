@@ -22,7 +22,6 @@ You can easily do so:
 3. Put your website content as text or markdown into the content/ subfolder.
 4. That should be it :)
 
-alternatively, you can host this on Heroku et. al.
 
 #License
 MIT License
