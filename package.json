@@ -1,0 +1,11 @@
+{
+  "name": "oldskool",
+  "description": "supercharge your website's geek factor by enabling this text interface.",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+      "start": "node server.js"
+  }
+}
