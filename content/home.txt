@@ -1,0 +1,5 @@
+###############################################
+##   > Welcome to the text based internet <  ##
+###############################################
+
+Hello and welcome to the text-based version of this website.
